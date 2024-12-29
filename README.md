@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm <a href="https://github.com/your-username">Ratinderdeep Singh</a></h1>
 <p align="center">
-  <b>A Tech Enthusiast Exploring AI, Machine Learning, and Tech Solutions! 💻</b>
+  A Tech Enthusiast Exploring AI, Machine Learning, and Tech Solutions! 💻
 </p>
 
 ---
@@ -37,8 +37,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/--black?style=flat-square&logo=github&logoColor=white" width="60" height="35"/>
+  <img src="github.png" width="35" height="30"/>
   <img width="12" />
+  <img height="40" />
 </p>
 
 ---
@@ -60,7 +61,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamratinder&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="ratinder" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamratinder&show_icons=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="ratinder" /></p>
 
----
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b761161xjlpqj70b1zrg39v5pq4wnfvv5olpmt9o4fqq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
