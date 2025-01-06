@@ -59,7 +59,7 @@
 <h2>Github's Stats 📶</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamratinder&theme=dark&bg_color=000000" alt="ratinder" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamratinder&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="ratinder" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamratinder&show_icons=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="ratinder" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamratinder&theme=dark&layout=donut" alt="ratinder" /></p>
 
 
 
