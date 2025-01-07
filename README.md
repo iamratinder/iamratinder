@@ -44,7 +44,7 @@
 
 ---
 
-<h3 align="left">Connect with me 😊</h3>
+<h2 align="left">Connect with me 😊</h2>
 <p align="center">
   <a href="https://twitter.com/ratinder_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ratinder_999" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ratinderdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratinderdeepsingh" height="30" width="40" /></a>
@@ -56,7 +56,7 @@
 
 ---
 
-<h2>Github's Stats 📶</h2>
+<h2>Github's Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" height="30px"></h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamratinder&theme=dark&bg_color=000000" alt="ratinder" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamratinder&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="ratinder" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamratinder&theme=dark&layout=donut" alt="ratinder" /></p>
