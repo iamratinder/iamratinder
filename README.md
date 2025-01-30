@@ -18,20 +18,27 @@
 
 ---
 
+
 <h2 align="left">My Skills ⚒️</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML%20%2F%20CSS-red?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/--darkblue?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-++-darkblue?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-darkgreen?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI%20%2F%20Machine%20Learning-orange?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML%20%2F%20CSS-red?style=flat-square&logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow" height="27"/>
+  <img src="https://img.shields.io/badge/--darkblue?style=flat-square&logo=c&logoColor=white" height="23"/>
+  <img src="https://img.shields.io/badge/-++-darkblue?style=flat-square&logo=c&logoColor=white" height="23"/>
+  <img src="https://img.shields.io/badge/-Python-darkgreen?style=flat-square&logo=python&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/-AI%20%2F%20Machine%20Learning-orange?style=flat-square&logo=matplotlib&logoColor=white" height="26"/>
   <br/>
-  <img src="https://img.shields.io/badge/-Jupyter-grey?style=flat-square&logo=jupyter&logoColor=yelloworange" />
-  <img src="https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-darkblue?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-scikitlearn-black?style=flat-square&logo=scikitlearn&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/-numpy-blue?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="23"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="26"/>
+  <br/>
+  <img src="https://img.shields.io/badge/-Jupyter-grey?style=flat-square&logo=jupyter&logoColor=yelloworange" height="26"/>
+  <img src="https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/-Pandas-darkblue?style=flat-square&logo=pandas&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/-scikitlearn-black?style=flat-square&logo=scikitlearn&logoColor=yellow" height="26"/>
+  <img src="https://img.shields.io/badge/-numpy-blue?style=flat-square&logo=numpy&logoColor=white" height="26"/>
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
   <img width="12" />
