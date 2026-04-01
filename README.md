@@ -1,75 +1,35 @@
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm <a href="https://github.com/your-username">Ratinderdeep Singh</a></h1>
-<p align="center">
-  A Tech Enthusiast Exploring AI, Machine Learning, and Tech Solutions! 💻
+<h1 align="left">Ratinderdeep Singh</h1>
+
+
+<p align="left">
+  <strong>Software & AI Developer</strong><br/>
+  Building intelligent systems that matter.
+</p>
+<p align="right">
+  <img align="right" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b761161xjlpqj70b1zrg39v5pq4wnfvv5olpmt9o4fqq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
+</p>
+<p align="left">
+  I like building things, mostly at the intersection of software and AI. <br/>
+  Currently pursuing B.Tech at NIT Jalandhar, spending my time shipping products, <br/>experimenting with LLMs, and figuring out how to make systems smarter.
+
+When I'm not writing code, I'm probably exploring new tools, reading about system design, or tinkering with something that probably doesn't need to be AI-powered, but is anyway.
 </p>
 
----
-
-<h2 align="left">About Me</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
-</p>
-
-- 🎓 Currently pursuing BTech @NITJ
-- 🌐 Passionate about AI & Machine Learning
-- ⚙️ Love building innovative projects
-- 🚀 Always eager to learn and collaborate
-- 💡 Open to exploring and contributing to exciting tech ventures
-
----
-
-
-<h2 align="left">My Skills ⚒️</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML%20%2F%20CSS-red?style=flat-square&logo=html5&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow" height="27"/>
-  <img src="https://img.shields.io/badge/--darkblue?style=flat-square&logo=c&logoColor=white" height="23"/>
-  <img src="https://img.shields.io/badge/-++-darkblue?style=flat-square&logo=c&logoColor=white" height="23"/>
-  <img src="https://img.shields.io/badge/-Python-darkgreen?style=flat-square&logo=python&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-AI%20%2F%20Machine%20Learning-orange?style=flat-square&logo=matplotlib&logoColor=white" height="26"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="23"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="26"/>
-  <br/>
-  <img src="https://img.shields.io/badge/-Jupyter-grey?style=flat-square&logo=jupyter&logoColor=yelloworange" height="26"/>
-  <img src="https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-Pandas-darkblue?style=flat-square&logo=pandas&logoColor=white" height="26"/>
-  <img src="https://img.shields.io/badge/-scikitlearn-black?style=flat-square&logo=scikitlearn&logoColor=yellow" height="26"/>
-  <img src="https://img.shields.io/badge/-numpy-blue?style=flat-square&logo=numpy&logoColor=white" height="26"/>
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="5" />
-  <img src="github.png" width="35" height="30"/>
-  <img width="12" />
-  <img height="40" />
-</p>
-
----
-
-<h2 align="left">Connect with me 😊</h2>
-<p align="center">
-  <a href="https://twitter.com/ratinder_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ratinder_999" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ratinderdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratinderdeepsingh" height="30" width="40" /></a>
-  <a href="https://kaggle.com/ratinderdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ratinderdeepsingh" height="30" width="40" /></a>
-  <a href="https://instagram.com/ratinder_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ratinder_999" height="30" width="40" /></a>
-  <a href="https://medium.com/@ratinder4954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ratinder4954" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ratinder_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ratinder_op" height="30" width="40" /></a>
-</p>
-
----
-
-<h2>Github's Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" height="30px"></h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamratinder&theme=dark&bg_color=000000" alt="ratinder" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamratinder&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="ratinder" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamratinder&theme=dark&layout=donut" alt="ratinder" /></p>
+	
+**Languages** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, C++, TypeScript, JavaScript, SQL<br>
+**AI / ML** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LangChain, scikit-learn, TensorFlow, Hugging Face, Pandas, NumPy<br>
+**Development** &nbsp; FastAPI, React, Next.js, Node.js, Flask, Streamlit, Flutter<br>
+**Databases** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MongoDB, MySQL<br>
+**Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Docker, AWS, Git, Vercel, Postman, Linux
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b761161xjlpqj70b1zrg39v5pq4wnfvv5olpmt9o4fqq9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" />
+<p align="left">
+  <a href="https://ratinder.me"><img src="https://img.shields.io/badge/Website-000?style=flat&logo=googlechrome&logoColor=white" alt="Profile"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ratinderdeepsingh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://x.com/Ratinder_999"><img src="https://img.shields.io/badge/Twitter-000?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/ratinderdeepsingh"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@ratinder4954"><img src="https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/ratinder_op"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/ratinder_999"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
